@@ -7,3 +7,8 @@ In addition to this you need these 5 packages installed from the Package Manager
 -Collections
 -Burst
 -Post-Processing
+-Mathmatics
+
+Jobs drop down in editor
+only check 'use burst jobs'
+and 'enable burst compilation'
