@@ -1,0 +1,9 @@
+-Unity 2018.2.11+
+-Scripting Runtime Version to .Net 4.x Equivalent
+-Api Compatibility level to .net 4.x
+
+In addition to this you need these 5 packages installed from the Package Manager: -Mathematics
+-Jobs
+-Collections
+-Burst
+-Post-Processing
